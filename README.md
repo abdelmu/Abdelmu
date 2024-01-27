@@ -5,7 +5,7 @@ My name is Abdurrahman MUHAMMET and I'm passionate about web development. Curren
 ## About Me
 
 - 🌐 [Personal Website](is comming)
-- 📧 Email: amuhammet.2009@2gmail.com
+- 📧 Email: amuhammet.2009@gmail.com
 <!--
 
 ## Projects
