@@ -18,4 +18,4 @@ My name is Abdurrahman MUHAMMET and I'm passionate about web development. Curren
 
 You can reach me through the following channels:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omerboran22/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-muhammet-b245772b0/)
